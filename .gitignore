@@ -5,3 +5,13 @@
 *.csv
 *.xlsx
 .ipynb_checkpoints
+
+# Proyecto 2
+/Proyecto 2/COVID-19_Radiography_Dataset
+/Proyecto 2/COVID-19_Radiography_Dataset_augmented
+/Proyecto 2/features_aug
+/Proyecto 2/models_ae
+*.joblib
+Proyecto 2/latents_all_scaled.npy
+Proyecto 2/latents_all.npy
+Proyecto 2/latents_labels.npy
